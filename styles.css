@@ -33,6 +33,7 @@ body {
     background-color: var(--stone-100);
     font-weight: var(--regular);
     font-family: "Outfit", sans-serif;
+    overflow-x: hidden;
 }
 .recipe-container {
     height: 100%;
